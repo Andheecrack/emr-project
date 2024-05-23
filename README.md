@@ -31,7 +31,7 @@ To install and set up the AI-Enhanced EMR Security project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/ai-emr-security.git
+    git clone https://github.com/andheecrack/ai-emr-security.git
     cd ai-emr-security
     ```
 
